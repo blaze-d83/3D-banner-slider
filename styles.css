@@ -33,7 +33,7 @@
     transform:
         rotateY(calc( (var(--position) - 1) * (360 / var(--quantity)) * 1deg))
         translateZ(550px);
-    border: 6px solid #000;
+    border: 4px solid #000;
     border-radius: 15px;
 }
 .banner .slider .item img {
