@@ -19,11 +19,11 @@ Showcases a visually appealing banner slider designed using CSS. It features a 3
 1. Clone the repository:
    ```bash
    git clone https://github.com/blaze-d83/3D-banner-slider.git
-```
+   ```
 
 2. Navigate to the project directory:
-```bash
+   ```bash
     cd 3D-banner-slider
-```
+   ```
 
 3. Open 'index.html' in web browser to view the banner slide.
